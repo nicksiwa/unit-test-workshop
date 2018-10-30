@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1540888124124" clover="3.2.0">
+  <project timestamp="1540888124124" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="21" coveredconditionals="21" methods="3" coveredmethods="3" elements="41" coveredelements="41" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1">
+      <file name="index.js" path="F:\Workshop\UnitTest\Transfer\index.js">
+        <metrics statements="17" coveredstatements="17" conditionals="21" coveredconditionals="21" methods="3" coveredmethods="3"/>
+        <line num="2" count="20" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="9" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="21" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="16" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
